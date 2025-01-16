@@ -1,4 +1,5 @@
 
+
 # El-brocoli-asesino
 En este repositorio se va a ir guardando las distintas versiones de un juego hecho en scratch cuya mecánica principal es una patata que tiene que matar zombies
 
@@ -6,5 +7,9 @@ En este repositorio se va a ir guardando las distintas versiones de un juego hec
  - Pepito
  - Juanita
  - Manuel
+*emphasized text*
+**strong text**
+ - List item
+ - ## Heading
 
-![enter image description here](https://i.postimg.cc/rpCyhPdZ/Semana-1-Marias-Bras.png)
+[![Semana-1-Marias-Bras.png](https://i.postimg.cc/9Frnkvn8/Semana-1-Marias-Bras.png)](https://postimg.cc/MvJ5MrxV)
